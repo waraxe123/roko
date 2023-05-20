@@ -219,7 +219,7 @@ def start(update: Update, context: CallbackContext):
             first_name = update.effective_user.first_name
             uptime = get_readable_time((time.time() - StartTime))
             update.effective_message.reply_sticker(
-                "CAACAgUAAx0CcJDJawACDu1kCKQFN8hdHbmMeolpwasFa2WCGQAC1QkAAqf2SVRaQPFZLF62di4E"
+                "CAACAgUAAx0CcYa09AADimRoQjPm6zZFA1qKss1HXI6FkuTrAAIYBQACcPOoVzn8zHlvT7qsLwQ"
             )
             update.effective_message.reply_text(
                 PM_START_TEXT.format(
