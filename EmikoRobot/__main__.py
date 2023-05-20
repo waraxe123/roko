@@ -100,7 +100,7 @@ buttons = [
         InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/txtwkwk"),
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/kinj4z"),
             
-        ),
+        
     ],
     [
         InlineKeyboardButton(
